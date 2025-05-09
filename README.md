@@ -1,4 +1,8 @@
 # Sales Dashboard
+![Screenshot 2025-05-09 134121](https://github.com/user-attachments/assets/37946d85-ea06-4884-a383-5d67c8a276ea)
+
+![Screenshot 2025-05-09 134159](https://github.com/user-attachments/assets/d2df70f2-8657-4e62-bbf3-3e652717601b)
+
 
 ## Overview
 This repository contains a comprehensive sales dashboard that provides detailed insights into revenue, sales, and employee performance. The dashboard is divided into two main pages, each offering a variety of charts and graphs to help analyze sales data effectively.
